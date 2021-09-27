@@ -1,0 +1,8 @@
+requests
+xlrd
+selenium
+opencv-python
+pandas
+ddddocr
+retrying
+python-opencv
